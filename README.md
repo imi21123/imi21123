@@ -2,7 +2,7 @@
  
 <img src="https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header" />
 
-<h2 align="center">👨‍💻 About 👨‍💻</h2>
+<h1 align="center">👨‍💻 About 👨‍💻</h1>
 </br>
 
 <h3 align="center">🏫 University 🏫</h3>
