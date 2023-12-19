@@ -24,8 +24,11 @@
 <h3 align="center">🏫 University 🏫</h3>
 <p align="center">
 Catholic University of Korea — MAR  2019 - now
+</br>
 <em>Physics</em>
+</br>
 <em>Computer Science Information Engineering</em>
+</br>
 </p>   
 
 </br>
