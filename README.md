@@ -22,19 +22,19 @@ Catholic University of Korea — MAR  2019 - now
 <h3 align="center">📚 Skill 📚</h3>
  
 <div align="center">
-<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/>
 <br>
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
+<img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?logo=Android Studio&logoColor=white"/>
 <br>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-<img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black"/>
+<img alt="React Js" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/>
 <br>
-<img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/> 
+<img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=Visual Studio&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"/>
+<img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?logo=WebStorm&logoColor=white"/> 
 <br>
 </div>
 <br> 
