@@ -39,7 +39,7 @@ Catholic University of Korea — MAR  2019 - now
 
 |Date|Awards|Organization|
 |:---:|:---:|:---:|
-|2023.10.21| [ACM-ICPC 예선 대회 은상](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbJeuqu%2FbtsBMQOmKby%2FoMUxNwcur5KXBNQylAYih1%2Fimg.png)| 가톨릭대학교 |
+|2023.10.21| [ACM-ICPC 예선 대회 은상]| 가톨릭대학교 |
 |2023.11.11| 2023 Global Coffee Youth Idea Contest 대상 | 월드커피리더스포럼 조직위원회 X 엑스포럼|
 
 </br>
@@ -74,7 +74,8 @@ Catholic University of Korea — MAR  2019 - now
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imi21123&layout=compact&theme=dracula)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imi21123)](https://solved.ac/imi21123) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimi21123&count_bg=%23FFA6CE&title_bg=%2395D0E1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imi21123)](https://solved.ac/imi21123) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimi21123&count_bg=%23FFA6CE&title_bg=%2395D0E1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 
