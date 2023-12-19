@@ -71,7 +71,7 @@ Catholic University of Korea — MAR  2019 - now
  
 <h3 align="center"> 🏆 Github Stat 🏆 </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imi21123)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imi21123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </br>
 </br>
