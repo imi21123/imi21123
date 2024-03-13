@@ -65,22 +65,6 @@ Catholic University of Korea — MAR  2019 - now
 </br>
 </br>
  
-<h3 align="center"> 🏆 Github Stat 🏆 </h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imi21123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</br>
-</br>
-</br>
- 
-<h3 align="center"> ⭐ Github Stacks ⭐ </h3>
-
-![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=imi21123&show_icons=true&theme=dracula) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imi21123&layout=compact&theme=dracula)
-
-</br>
-</br>
-</br>
- 
 <h3 align="center"> 🟣 Etc 🟣 </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imi21123)](https://solved.ac/imi21123) 
