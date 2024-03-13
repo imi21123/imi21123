@@ -64,6 +64,14 @@ Catholic University of Korea — MAR  2019 - now
 </br>
 </br>
 </br>
+
+<h3 align="center"> ⭐ Github Stacks ⭐ </h3>
+
+![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=imi21123&show_icons=true&theme=dracula) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imi21123&layout=compact&theme=dracula)
+
+</br>
+</br>
+</br>
  
 <h3 align="center"> 🟣 Etc 🟣 </h3>
 
