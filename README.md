@@ -54,8 +54,8 @@ Catholic University of Korea — MAR  2019 - now
 
 |Organization|Activity|Role|Date|
 |:---:|:---:|:---:|:---:|
+| [구름톤 유니브](https://9oormthon.university/) | Management Team | 운영진 |2024.06 ~ 2024.12|
 | UMC 6th | Management Team | 가톨릭대 리더 | 2024.03 ~ 2024.08 |
-| [ReadyVery](https://readyvery.com/) | Frontend Developer| 결제 연동 및 유저/점주사이드 제작 |2023.10 ~ |
 | UMC 5th | Frontend Developer | Android 파트장 | 2023.09 ~ 2024.02 |
 | UMC 4th | Backend Developer | Node.js 파트장 |2023.03 ~ 2023.08|
 | UMC 3rd | Frontend Developer | Android 파트장 | 2022.07 ~ 2023.02 |
