@@ -28,8 +28,8 @@ Catholic University of Korea — MAR  2019 - now
 <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?logo=Android Studio&logoColor=white"/>
 <br>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black"/>
-<img alt="React Js" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/>
 <br>
 </div>
 <br> 
