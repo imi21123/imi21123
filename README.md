@@ -44,7 +44,6 @@ Catholic University of Korea — MAR  2019 - now
 |Date|Awards|Organization|
 |:---:|:---:|:---:|
 |2023.10.21| [ACM-ICPC 예선 대회 은상]| 가톨릭대학교 |
-|2023.11.11| 2023 Global Coffee Youth Idea Contest 대상 | 월드커피리더스포럼 조직위원회 X 엑스포럼|
 
 </br>
 </br>
@@ -54,6 +53,7 @@ Catholic University of Korea — MAR  2019 - now
 
 |Organization|Activity|Role|Date|
 |:---:|:---:|:---:|:---:|
+| 구름톤 딥다이브 | 풀스택 | 11회차 | 2024.08 ~ 2025.02 |
 | [구름톤 유니브](https://9oormthon.university/) | Management Team | 운영진 |2024.06 ~ 2024.12|
 | UMC 6th | Management Team | 가톨릭대 리더 | 2024.03 ~ 2024.08 |
 | UMC 5th | Frontend Developer | Android 파트장 | 2023.09 ~ 2024.02 |
