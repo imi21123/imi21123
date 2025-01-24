@@ -43,7 +43,7 @@ Catholic University of Korea — MAR  2019 - now
 
 |Date|Awards|Organization|
 |:---:|:---:|:---:|
-|2023.10.21| [ACM-ICPC 예선 대회 은상]| 가톨릭대학교 |
+|2023.10.21| ACM-ICPC 예선 대회 은상| 가톨릭대학교 |
 
 </br>
 </br>
@@ -53,7 +53,7 @@ Catholic University of Korea — MAR  2019 - now
 
 |Organization|Activity|Role|Date|
 |:---:|:---:|:---:|:---:|
-| 구름톤 딥다이브 | 풀스택 | 11회차 | 2024.08 ~ 2025.02 |
+| [구름톤 딥다이브](https://deepdive.goorm.io/?utm_source=google&utm_medium=cpc&utm_campaign=basic&utm_term=%EA%B5%AC%EB%A6%84%ED%86%A4%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C&gad_source=1) | 풀스택 | 11회차 | 2024.08 ~ 2025.02 |
 | [구름톤 유니브](https://9oormthon.university/) | Management Team | 운영진 |2024.06 ~ 2024.12|
 | UMC 6th | Management Team | 가톨릭대 리더 | 2024.03 ~ 2024.08 |
 | UMC 5th | Frontend Developer | Android 파트장 | 2023.09 ~ 2024.02 |
