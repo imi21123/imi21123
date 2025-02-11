@@ -7,7 +7,7 @@
 
 <h3 align="center">🏫 University 🏫</h3>
 <div align="center">
-Catholic University of Korea — MAR  2019 - now
+Catholic University of Korea
 </br>
 📘 Physics 📘
 </br>
