@@ -22,11 +22,6 @@ Catholic University of Korea
 <h3 align="center">📚 Skill 📚</h3>
  
 <div align="center">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/>
-<br>
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
-<img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?logo=Android Studio&logoColor=white"/>
-<br>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black"/>
@@ -53,7 +48,6 @@ Catholic University of Korea
 
 |Organization|Activity|Role|Date|
 |:---:|:---:|:---:|:---:|
-| [구름톤 딥다이브](https://deepdive.goorm.io/?utm_source=google&utm_medium=cpc&utm_campaign=basic&utm_term=%EA%B5%AC%EB%A6%84%ED%86%A4%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C&gad_source=1) | 풀스택 | 11회차 | 2024.08 ~ 2025.02 |
 | [구름톤 유니브](https://9oormthon.university/) | Management Team | 운영진 |2024.06 ~ 2024.12|
 | UMC 6th | Management Team | 가톨릭대 리더 | 2024.03 ~ 2024.08 |
 | UMC 5th | Frontend Developer | Android 파트장 | 2023.09 ~ 2024.02 |
