@@ -71,8 +71,6 @@ Catholic University of Korea
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imi21123)](https://solved.ac/imi21123) 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimi21123&count_bg=%23FFA6CE&title_bg=%2395D0E1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=40&section=footer" />
