@@ -54,7 +54,7 @@ FSD · Atomic Design · Clean Architecture · Controller-Service-Repository
 
 | 프로젝트 | 내용 | 스택 | 기간 |
 |:---|:---|:---|:---:|
-| **[YouthPick](https://github.com/YouthPick)** | 청년정책 추천 서비스<br/>· 정책 추천 매칭 엔진 단독 설계 — 8축 자격 필터 + 10축 가중 점수, 추천 근거를 응답에 포함<br/>· 프론트엔드 FSD 구조 재편 및 커뮤니티 도메인 담당 | Java 21 · Spring Boot<br/>React 19 · Zustand | 2026.07 |
+| **[YouthPick](https://github.com/YouthPick)** | 청년정책 추천 서비스<br/>· 정책 추천 매칭 엔진 단독 설계 - 8축 자격 필터 + 10축 가중 점수, 추천 근거를 응답에 포함<br/>· 프론트엔드 FSD 구조 재편 및 커뮤니티 도메인 담당 | Java 21 · Spring Boot<br/>React 19 · Zustand | 2026.07 |
 | **[MUSINSSAK](https://github.com/MUSINSSAK)** | 커머스 클론<br/>· Atomic Design 컴포넌트 체계 구축, GitHub Actions CI 도입<br/>· Spring Boot 계층 구조로 상품 조회 API 구현<br/>· Flyway로 도메인 규칙을 DB 제약에 반영 | Vite · React 19<br/>Java 17 · Spring Boot | 2025.07 ~ 09 |
 | **[Prolog](https://github.com/FRONT-END-BOOTCAMP-PLUS-4/prolog)** | 기술 블로그 플랫폼<br/>· Clean Architecture 3계층으로 댓글 · 북마크 도메인 구현<br/>· 소유권 검증을 유스케이스 계층에 배치 | Next.js 15 · Prisma | 2025.05 ~ 06 |
 | **[Coedu](https://github.com/F3B4-KDT-Project/front-end)** | 실시간 교육 플랫폼<br/>· 토큰 자동 갱신 인터셉터와 타입 안전 HTTP 클라이언트 구현<br/>· IDE 자동완성이 지원되는 디자인 시스템 설계 후 전체 UI에 일괄 적용 | TypeScript · Emotion<br/>TanStack Query | 2025.01 ~ 03 |
