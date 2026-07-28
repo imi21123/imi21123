@@ -13,11 +13,11 @@ React · TypeScript 기반 프론트엔드를 중심으로 3년 6개월 동안 1
 
 **알리고에이아이 주식회사** · 개발팀 웹 개발자 · `2025.10 ~ 2026.04`
 
-> **Celevu** — 광고주와 셀럽 에이전시를 잇는 광고 모델 섭외 플랫폼<br/>
-> 에이전시가 계약한 셀럽을 등록하면, 광고주가 프로필과 활동 이력을 확인하고 협업을 제안<br/>
+> 에이전시가 계약한 셀럽을 등록하면, 광고주가 프로필과 활동 이력을 확인하고 협업을 제안합니다.<br/>
+> 일반 광고 촬영뿐 아니라 라이선싱한 셀럽 이미지로 AI 광고를 제작하는 계약도 가능합니다.<br/>
 > 해외 시장을 겨냥한 V1에서 국내 시장으로 전환하며 진행한 **V2 전면 리뉴얼**에 참여했습니다.
 
-풀스택 3인 팀에서 프론트엔드를 주로 맡고, 담당 기능의 서버와 관리자 페이지까지 직접 작업했습니다.
+풀스택 3인 팀에서 프론트엔드 전반과 담당 기능의 서버와 관리자 페이지까지 작업했습니다.
 
 - 비즈니스 로직과 데이터 접근이 컴포넌트에 섞여 있던 레거시를 **기능별 계층 구조로 분리**하고 Context 기반 의존성 주입 적용
 - **HTTP 클라이언트 · 토큰 자동 갱신 래퍼 · 에러 타입 분리** 등 통신 계층 구축
@@ -46,7 +46,7 @@ React · TypeScript 기반 프론트엔드를 중심으로 3년 6개월 동안 1
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white&style=flat-square" />
 
 **Architecture**  
-FSD · Atomic Design · Clean Architecture · Controller–Service–Repository
+FSD · Atomic Design · Clean Architecture · Controller-Service-Repository
 
 <br/>
 
