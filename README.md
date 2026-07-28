@@ -87,7 +87,7 @@ FSD · Atomic Design · Clean Architecture · Controller-Service-Repository
 | UMC 4th | 파트 스터디 운영 · 코드 리뷰 | Node.js 파트장 | 2023.03 ~ 2023.08 |
 | UMC 3rd | 파트 스터디 운영 · 코드 리뷰 | Android 파트장 | 2022.08 ~ 2023.02 |
 | 창업동아리 MATCH | 홈페이지 MVP 제작 | Frontend Developer | 2023.06 ~ 08 |
-| [ALCUK](https://alcuk.co.kr/) | 알고리즘 스터디 (주니어 · 시니어 · 시니어 심화) | - | 2021 ~ 2022.08 |
+| ALCUK | 알고리즘 스터디 (주니어 · 시니어 · 시니어 심화) | - | 2021 ~ 2022.08 |
 
 <br/>
 
