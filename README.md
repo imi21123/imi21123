@@ -39,14 +39,15 @@ React · TypeScript 기반 프론트엔드를 중심으로 3년 6개월 동안 1
 
 **Backend**
 
-<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square" />
 
 **Infra & Tool**
 
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white&style=flat-square" />
 
-**Architecture**  
-FSD · Atomic Design · Clean Architecture · Controller-Service-Repository
+**Architecture** 
+
+FSD · Atomic Design · Clean Architecture · Controller–Facade–Service–Repository
 
 <br/>
 
