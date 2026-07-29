@@ -91,11 +91,13 @@ FSD · Atomic Design · Clean Architecture · Controller-Service-Repository
 
 <br/>
 
-## 🏆 Awards
+## 🏆 Awards & Certificates
 
-| 일자 | 수상 | 주최 |
+| 일자 | 내용 | 주최 |
 |:---:|:---|:---:|
 | 2023.10.21 | ACM-ICPC 예선 대회 **은상** | 가톨릭대학교 |
+| 2026.06.19 | **SQLD** · SQL 개발자 | 한국데이터산업진흥원 |
+| 2026.06.05 | **ADsP** · 데이터분석 준전문가 | 한국데이터산업진흥원 |
 
 <br/>
 
